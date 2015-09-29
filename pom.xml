@@ -12,7 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<derby.version>10.11.1.1</derby.version>
-		<activeMq.version>5.12.0</activeMq.version>
+		<activeMq.version>5.11.0</activeMq.version>
 		<mule.version>3.7.1</mule.version>
     	<mule.tools.version>1.1</mule.tools.version>
     	
